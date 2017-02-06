@@ -1,0 +1,46 @@
+#rewind{
+	-fx-background-image: url("Image/1467320669_audio-video-outline-first-track.png");
+	-fx-background-color: transparent ;
+}
+
+#play{
+	-fx-background-image: url("Image/1467320101_audio-video-outline-play.png");
+	-fx-background-color: transparent ;
+}
+
+#forward{
+	-fx-background-image: url("Image/1467320658_audio-video-outline-last-track.png");
+	-fx-background-color: transparent ;
+}
+
+#addNewTrack{
+	-fx-background-image: url("Image/1467321730_22.Music-Playlist.png");
+	-fx-background-color: transparent ;
+}
+
+#image{
+	-fx-background-image:url("Image/hipster-triangle-wallpaper-tumblr-1915.jpg"); 
+	-fx-background-radius: 0px;
+}
+
+#outerPane{
+	-fx-base: #606060;
+  -fx-background-color: radial-gradient(center 50% 50%, radius 60%,
+                                        #666a6b, #2b2f32);
+}
+
+#innerPane{
+	-fx-background-color: dimgrey;
+	-fx-opacity: 0.4;
+}
+
+
+
+
+#backMusic{
+	-fx-background-image: url("Image/1467321022_21.Music.png");
+	-fx-background-color: transparent ;
+	
+}
+
+
