@@ -1,4 +1,4 @@
-Sista versen is a music-player-project, it is not really complete.
+Sista versen is a music-player-project, it has some bugs, but follow the instructions and it will work well.
 
 1. Run the application in your IDE Eclipse, Netbean or intelliJ
 
